@@ -1,0 +1,35 @@
+_repo: The-1-000-000-bank-note-and-other-new-stories_61522
+_version: 0.0.1
+alternative_title: The million pound bank-note, and other stories
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2020-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+- GITenberg
+tableOfContents: The £1,000,000 bank-note -- Mental telegraphy -- A cure for the blues
+  -- The enemy conquered; or, Love triumphant -- About all kinds of ships -- Playing
+  courier -- The German Chicago -- A petition to the Queen of England -- A majestic
+  literary fossil.
+title: The £1,000,000 bank-note, and other new stories
+url: http://www.gutenberg.org/ebooks/61522
