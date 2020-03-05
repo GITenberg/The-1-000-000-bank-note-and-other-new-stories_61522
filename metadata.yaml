@@ -1,6 +1,9 @@
 _repo: The-1-000-000-bank-note-and-other-new-stories_61522
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The million pound bank-note, and other stories
+covers:
+- cover_type: archival
+  image_path: 61522-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61522#The-1-000-000-bank-note-and-other-new-stories
 gutenberg_issued: '2020-02-27'
 gutenberg_type: Text
 identifiers:
